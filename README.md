@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server that automatically generates complete favicon sets from PNG images or URLs. This server creates a comprehensive set of favicon files including various sizes, Apple touch icons, and a manifest.json file.
 
+<a href="https://glama.ai/mcp/servers/@dh1011/auto-favicon-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@dh1011/auto-favicon-mcp/badge" alt="Auto Favicon Server MCP server" />
+</a>
+
 ## Features
 
 - **PNG to Favicon**: Generate favicon sets from local PNG files
